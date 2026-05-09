@@ -1,8 +1,8 @@
 Component,Model,Qty,Price Per Unit, Price Total, Link, Description
 ESP32,ESP32-S3 DEVKIT-C,x1,$12.88,$12.88,AliExpress,Main Micro Controller
 ESP32 CAM,ESP32-S3 CAM,x1,$10.32,$10.32,AliExpress,Takes video feed from camera and both records it and transmits it
-120° Camera,OV2640,x1,$12.38,$12.38,AliExpress, The camera for recording video
-Brushless Motor,x2,IFlight XING 2806.5 1300KV,$51.58,$103.16,AliExpress, Brushless motors for thrust
+120° Camera,OV2640 w/120° lense,x1,$12.38,$12.38,AliExpress, The camera for recording video
+Brushless Motor,IFlight XING 2806.5 1300KV,x2,$51.58,$103.16,AliExpress, Brushless motors for thrust
 Servo 17G 4pc,SURPASS Hobby Waterproof Servo 17g,x1,$46.00,$46.00,AliExpress, Servos for flight control surfaces
 2s LiPo,1800mah 2s LiPo,x1,$17.66,$17.66,AliExpress, Battery for powering avionics flight computers & servos
 ESC,HV Bidirectional 60A Brushless ESC,x2,$24.91,$49.82,AliExpress,ESCs for main motors
