@@ -16,4 +16,4 @@ The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which c
 
 # WIP
 
-* The code is not yet finalised! :(
+* The code is not yet finalised! 
