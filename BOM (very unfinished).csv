@@ -1,8 +1,22 @@
 Component,Model,Qty,Price Per Unit, Price Total, Link, Description
 ESP32,ESP32-S3 DEVKIT-C,x1,$12.88,$12.88,AliExpress,Main Micro Controller
 ESP32 CAM,ESP32-S3 CAM,x1,$10.32,$10.32,AliExpress,Takes video feed from camera and both records it and transmits it
-120° Camera,OV2640 w/120° lense,x1,$12.38,$12.38,AliExpress, The camera for recording video
-Brushless Motor,IFlight XING 2806.5 1300KV,x2,$51.58,$103.16,AliExpress, Brushless motors for thrust
-Servo 17G 4pc,SURPASS Hobby Waterproof Servo 17g,x1,$46.00,$46.00,AliExpress, Servos for flight control surfaces
-2s LiPo,1800mah 2s LiPo,x1,$17.66,$17.66,AliExpress, Battery for powering avionics flight computers & servos
+120° Camera,OV2640 w/120° lense,x1,$12.38,$12.38,AliExpress,Camera for recording video
+Brushless Motor,IFlight XING 2806.5 1300KV,x2,$51.58,$103.16,AliExpress,Brushless motors for thrust
+Servo 17G 4pc,SURPASS Hobby Waterproof Servo 17g,x1,$46.00,$46.00,AliExpress,Servos for flight control surfaces
+Avionics battery,1800mah 2s LiPo,x1,$17.66,$17.66,AliExpress,Battery for powering avionics flight computers & servos
 ESC,HV Bidirectional 60A Brushless ESC,x2,$24.91,$49.82,AliExpress,ESCs for main motors
+Water Pump,MINI310 water pump,x2,$7.83,$15.66,AlExpress,Water pumps for the ballast tanks
+Barometer,BMP-280,x1,$7.94,$7.94,AliExpress,Measures borometric altitude & tempurature
+IMU,MPU-6050,x1	$10.62,$10.62,AliExpress,Measures force angular momentum and orientation using gyroscopes and accelerometers
+Laser Rangefinder,GY-TOF10M,x1,$29.88,$29.88,AliExpress,Measures distance using LiDaR 
+Controller+Transceiver,Flysky FS-i6 + FS-IA6B,x1,$79.69,$79.69,AliExpress,Controller and reciever for controlling craft
+Voltage Monitor,INA219,x1,$4.64,$4.64,AliEpress,Measures the battery percentage of the avionics & servos battery
+Buck Converter,Mini-560,x1,$4.60,$4.60,AliExpress,Converts the 2s LiPo voltage down to 5V for the ESP32s
+Voltage Monitor,FS-CVT01,x1,$8.50	,$8.50,AliExpress,Measures battery percentage of the main motor batteries
+3D Printer Filament,1KG PLA+,x1,$27.90,$27.90,JayCar,Main body material
+Props,3-Blade 7"x3.7" Carbon Fiber Reinforced Pusher,x2,$9.47 USD,$18.94 USD,MasterAirScrew,Propellers for the motors
+Motor batteries,5200mah 3s LiPo,x2,FREE,N/A,Already Own,Batteries for the motors
+Pump Motor Driver,L293D,x1,FREE,N/A,Already Own, IC for the motors on the ballast tnk pumps
+Epoxy Resin,500ml 105 Resin 100ml 206 Slow Hardener,x1,$35.00,$47.50,CarbonFibreNZ,Epoxy for carbon fiber wrap
+PCB,N/A (custom),x1(comes in batch of 5 which is min),$9.11 USD,JLCPCB,The main PCB for the board
