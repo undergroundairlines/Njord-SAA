@@ -1,6 +1,5 @@
 # Njord-SAA
 The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which can transition automatically from underwater travel to aerial flight. To resurface, it can empty it's 2 ballast tanks, pitch almost 90° directly up, and launch itself above the surface. When the surface is breached, it deploys 2 sets (yes, that means 4 wings total) of wings, and switches motors to a much higher RPM to produce enough thrust for flight.
-
 # Features 
 * Deployable wings: The main visual feature of the Njord SAA is its wings, having 2 sets of deployable wings which allow having good hydrodynamics underwater, while still being able to produce enough lift to fly. The rear set of wings deploy forwards and meet the forward most wings at their tips.
 
@@ -14,6 +13,12 @@ The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which c
 
 * As an opposite to the Ground Avoidance System, there will be a system to resurface the craft when submerged if the batteries become dangerously low, or it loses signal.
 
-# WIP
+# CAD
 
-* The code is not yet finalised! 
+
+
+
+# PCB
+This is the PCB for the Njord SAA! It is a standard 4 layer PCB containing all elements needed for flight, like an IMU, a barometer, an ESP32, and many more pins for many more devices like servos, motors, an
+<img width="764" height="401" alt="image" src="https://github.com/user-attachments/assets/1659bfdc-2be8-4c00-a9df-e41c0a68c44d" />
+
