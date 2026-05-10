@@ -15,7 +15,7 @@ Voltage Monitor,INA219,x1,$4.64,$4.64,AliEpress,Measures the battery percentage 
 Buck Converter,Mini-560,x1,$4.60,$4.60,AliExpress,Converts the 2s LiPo voltage down to 5V for the ESP32s
 Voltage Monitor,FS-CVT01,x1,$8.50	,$8.50,AliExpress,Measures battery percentage of the main motor batteries
 3D Printer Filament,1KG PLA+,x1,$27.90,$27.90,JayCar,Main body material
-Props,3-Blade 7"x3.7" Carbon Fiber Reinforced Pusher,x2,$9.47 USD,$18.94 USD,MasterAirScrew,Propellers for the motors
+Props,3-Blade 7x3.7 Carbon Fiber Reinforced Pusher,x2,$9.47 USD,$18.94 USD,MasterAirScrew,Propellers for the motors
 Motor batteries,5200mah 3s LiPo,x2,FREE,N/A,Already Own,Batteries for the motors
 Pump Motor Driver,L293D,x1,FREE,N/A,Already Own, IC for the motors on the ballast tnk pumps
 Epoxy Resin,500ml 105 Resin 100ml 206 Slow Hardener,x1,$35.00,$47.50,CarbonFibreNZ,Epoxy for carbon fiber wrap
