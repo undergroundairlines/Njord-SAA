@@ -22,3 +22,4 @@ The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which c
 This is the PCB for the Njord SAA! It is a standard 4 layer PCB containing all elements needed for flight, like an IMU, a barometer, an ESP32, and many more pins for many more devices like servos, motors, an
 <img width="764" height="401" alt="image" src="https://github.com/user-attachments/assets/1659bfdc-2be8-4c00-a9df-e41c0a68c44d" />
 
+<img width="539" height="370" alt="image" src="https://github.com/user-attachments/assets/3d2155a4-cf04-47e4-a57e-7437f651e072" />
