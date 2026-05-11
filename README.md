@@ -18,6 +18,7 @@ The cad files for the Njord SAA were made in autodesk inventor professional. The
 <img width="2155" height="1192" alt="image" src="https://github.com/user-attachments/assets/b31e19f2-1502-45dd-96ea-b8cfecaa667e" />
 <img width="1204" height="859" alt="image" src="https://github.com/user-attachments/assets/14e38fd2-397e-4809-99ca-ab20a8106bc0" />
 <img width="1529" height="808" alt="image" src="https://github.com/user-attachments/assets/2680209e-ac56-44b4-9bdc-05450cf18585" />
+<img width="1038" height="694" alt="image" src="https://github.com/user-attachments/assets/6cbd354e-d135-40a2-a862-14884e549e99" />
 
 
 
