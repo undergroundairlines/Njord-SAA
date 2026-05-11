@@ -15,6 +15,8 @@ The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which c
 
 # CAD
 The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate moduals for the elivators,tail,wings,body and nose. 
+<img width="2155" height="1192" alt="image" src="https://github.com/user-attachments/assets/b31e19f2-1502-45dd-96ea-b8cfecaa667e" />
+
 
 
 
