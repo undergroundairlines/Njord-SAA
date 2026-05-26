@@ -14,7 +14,7 @@ The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which c
 * As an opposite to the Ground Avoidance System, there will be a system to resurface the craft when submerged if the batteries become dangerously low, or it loses signal.
 
 # CAD
-The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate moduals for the elivators,tail,wings,body and nose. 
+The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate moduals for the elivators,tail,wings,body and nose. There were lots of strugles with the cad on multile ocasions I had to fully redesign the body nose and tail. the main reason for this was because I had very little design constrantes to work from and mostly figured it out as I went.
 <img width="2155" height="1192" alt="image" src="https://github.com/user-attachments/assets/b31e19f2-1502-45dd-96ea-b8cfecaa667e" />
 <img width="1204" height="859" alt="image" src="https://github.com/user-attachments/assets/14e38fd2-397e-4809-99ca-ab20a8106bc0" />
 <img width="1038" height="694" alt="image" src="https://github.com/user-attachments/assets/6cbd354e-d135-40a2-a862-14884e549e99" />
