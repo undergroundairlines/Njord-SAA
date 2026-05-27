@@ -15,7 +15,7 @@ The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which c
 * As an opposite to the Ground Avoidance System, there will be a system to resurface the craft when submerged if the batteries become dangerously low, or it loses signal.
 
 # CAD
-The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate moduals for the elivators,tail,wings,body and nose. There were lots of strugles with the cad on multile ocasions I had to fully redesign the body nose and tail. the main reason for this was because I had very little design constrantes to work from and mostly figured it out as I went.
+The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate modules for the elevators, wings, tail, body and nose. There were lots of struggles with the cad on multiple occasions, such as how I had to fully redesign the body nose and tail a few times. The main reason for this was because I had very little design constraints to work from, and mostly figured it out as I went.
 <img width="1204" height="859" alt="image" src="https://github.com/user-attachments/assets/14e38fd2-397e-4809-99ca-ab20a8106bc0" />
 <img width="1038" height="694" alt="image" src="https://github.com/user-attachments/assets/6cbd354e-d135-40a2-a862-14884e549e99" />
 
@@ -25,7 +25,7 @@ The cad files for the Njord SAA were made in autodesk inventor professional. The
 
 
 # PCB
-This is the PCB for the Njord SAA! It is a standard 4 layer PCB featuring all elements needed for a flight computer like an IMU, barometer, an ESP32, and many pin headers for devices like servos, motors, and other sensors.
+This is the PCB for the Njord SAA! It is a standard 4 layer PCB featuring all elements needed for a flight computer like an IMU, barometer, an ESP32, and many pin headers for devices like servos, motors, and other sensors. It was designed originally in Eagle, but I switched to KiCad bacause there were a lot more sources for help, and it both looks and feels more modern.
 <img width="764" height="401" alt="image" src="https://github.com/user-attachments/assets/1659bfdc-2be8-4c00-a9df-e41c0a68c44d" />
 
 <img width="539" height="370" alt="image" src="https://github.com/user-attachments/assets/3d2155a4-cf04-47e4-a57e-7437f651e072" />
