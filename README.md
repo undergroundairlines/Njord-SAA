@@ -26,6 +26,8 @@ The cad files for the Njord SAA were made in autodesk inventor professional. The
 
 # PCB
 This is the PCB for the Njord SAA! It is a standard 4 layer PCB featuring all elements needed for a flight computer like an IMU, barometer, an ESP32, and many pin headers for devices like servos, motors, and other sensors. It was designed originally in Eagle, but I switched to KiCad bacause there were a lot more sources for help, and it both looks and feels more modern.
-<img width="764" height="401" alt="image" src="https://github.com/user-attachments/assets/1659bfdc-2be8-4c00-a9df-e41c0a68c44d" />
+<img width="1018" height="538" alt="image" src="https://github.com/user-attachments/assets/1cd167ff-dee4-4ac0-b21b-43a03130883d" />
 
-<img width="539" height="370" alt="image" src="https://github.com/user-attachments/assets/3d2155a4-cf04-47e4-a57e-7437f651e072" />
+
+<img width="1315" height="687" alt="image" src="https://github.com/user-attachments/assets/787c179d-4afc-437e-8548-65247d33fbfb" />
+
