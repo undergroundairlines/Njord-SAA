@@ -1,3 +1,5 @@
+<img width="802" height="1236" alt="image" src="https://github.com/user-attachments/assets/0ec4db35-0d05-4797-bfb2-2e97b9187ee3" />
+
 # Njord-SAA
 The Njord SAA (Submersible Amphibius Aircraft) is a submersible aircraft which can transition automatically from underwater travel to aerial flight. To resurface, it can empty it's 2 ballast tanks, pitch almost 90° directly up, and launch itself above the surface. When the surface is breached, it deploys 2 sets (yes, that means 4 wings total) of wings, and switches motors to a much higher RPM to produce enough thrust for flight.
 <img width="2560" height="1440" alt="Njord SAA v2" src="https://github.com/user-attachments/assets/211fdac3-f863-4c79-8a53-dfd4f5994471" />
