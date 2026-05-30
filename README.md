@@ -31,6 +31,6 @@ This is the PCB for the Njord SAA! It is a standard 4 layer PCB featuring all el
 <img width="1246" height="658" alt="image" src="https://github.com/user-attachments/assets/b2ce3a02-6a61-49be-af70-dea689444a1d" />
 
 
+<img width="1615" height="849" alt="image" src="https://github.com/user-attachments/assets/ddddf68f-b969-4578-a786-a826b6e36cbb" />
 
-<img width="1622" height="856" alt="image" src="https://github.com/user-attachments/assets/cdba0c6b-d49c-453a-880b-d6b1f538a741" />
 
