@@ -18,6 +18,16 @@ The reason for this project was we thought a amphibius aircraft so we designed I
 
 * As an opposite to the Ground Avoidance System, there will be a system to resurface the craft when submerged if the batteries become dangerously low, or it loses signal.
 
+* #How to buld
+* to buld the Njord SAA you wound need to
+* . 3d print the body, wings, tail, elevators and nose
+* Wrap the body, wings, elevators and ruddders in carbon fiber weave
+* install or the componets the PCB mottors and servos
+* route the wires
+* put eveything together
+* assembe the body with silicone around the mating surfaceses
+* ready to fly or swim.
+
 # CAD
 The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate modules for the elevators, wings, tail, body and nose. There were lots of struggles with the cad on multiple occasions, such as how I had to fully redesign the body nose and tail a few times. The main reason for this was because I had very little design constraints to work from, and mostly figured it out as I went.
 <img width="1204" height="859" alt="image" src="https://github.com/user-attachments/assets/14e38fd2-397e-4809-99ca-ab20a8106bc0" />
