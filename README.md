@@ -18,15 +18,34 @@ The reason for this project was we thought a amphibius aircraft so we designed I
 
 * As an opposite to the Ground Avoidance System, there will be a system to resurface the craft when submerged if the batteries become dangerously low, or it loses signal.
 
-* #How to buld
-* to buld the Njord SAA you wound need to
-* . 3d print the body, wings, tail, elevators and nose
-* Wrap the body, wings, elevators and ruddders in carbon fiber weave
-* install or the componets the PCB mottors and servos
-* route the wires
-* put eveything together
-* assembe the body with silicone around the mating surfaceses
-* ready to fly or swim.
+  # How to buld
+
+  ### !! MAKE SURE TO WEAR PROPER PPE WHEN WORKING ON CURED CARBON FIBER & FIBERGLASS !!
+  (resperator and eye protection, full body suit for fiberglass)
+
+ ### Prepare fuselage:
+1. 3d print the main body, tail section, nose cone and hatches, then remove supports and clean up the prints
+2. Lightly sand the nose cone and main body to ensure a proper adhesion to the epoxy
+3. Cut carbon fiber weave to the correct size to wrap the main body section, then cut out sections for the wing pins and battery hatches. Do the same for fiberglass to the nose cone
+4. Make sure the cuts fit the subsequent part BEFORE mixing any epoxy
+5. Mix 2 part epoxy in the correct ratio supplied by the manufacturer, then with a foam roller wet out both cuts on both sides until and squeeze out the excess epoxy
+6. Wrap the carbon fiber around the body section, smooth out any wrinkles and air pockets, then apply peel ply to the surface. Repeate process for the fiberglass on the nose cone (peel ply is optional for fiberglass) and leave both to cure for 24-48 hours
+7. After drying, drill out screw holes (you can shine a light through the holes in the 3d print to see the outline) and dremel the edges of the pre cut sections for wing pins and hatches until their sizes match the 3d print
+ ### Prepare Control Surfaces & Wings:
+1. 3d print rudders, elevons, and wings, then remove supports and clean up the prints
+2. Lightly sand all surfaces of all parts for good adhesion, and pre cut carbon fiber weave to the correct sizes for each part seperately
+3. Repeat steps 4-7 from the Fuselage Preperation instructions for each part
+### Assemble Hardware:
+1. Neatly solder the PCB using the stencil provided by JLCPCB and test for improperly soldered compenents
+2. Install motors onto the mounts,
+
+3d print the body, wings, tail, elevators and nose
+Wrap the body, wings, elevators and ruddders in carbon fiber weave
+install or the componets the PCB mottors and servos
+route the wires
+put eveything together
+assembe the body with silicone around the mating surfaceses
+ready to fly or swim.
 
 # CAD
 The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate modules for the elevators, wings, tail, body and nose. There were lots of struggles with the cad on multiple occasions, such as how I had to fully redesign the body nose and tail a few times. The main reason for this was because I had very little design constraints to work from, and mostly figured it out as I went.
