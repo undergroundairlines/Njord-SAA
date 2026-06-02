@@ -22,8 +22,10 @@ The reason for this project was we thought a amphibius aircraft so we designed I
 # CAD
 The cad files for the Njord SAA were made in autodesk inventor professional. There are 5 seperate modules for the elevators, wings, tail, body and nose. There were lots of struggles with the cad on multiple occasions, such as how I had to fully redesign the body nose and tail a few times. The main reason for this was because I had very little design constraints to work from, and mostly figured it out as I went.
 
+Nose cone:
 <img width="1204" height="859" alt="image" src="https://github.com/user-attachments/assets/14e38fd2-397e-4809-99ca-ab20a8106bc0" />
 
+Tail:
 <img width="1038" height="694" alt="image" src="https://github.com/user-attachments/assets/6cbd354e-d135-40a2-a862-14884e549e99" />
 
 
@@ -37,6 +39,7 @@ Wiring diagram:
 <img width="1020" height="542" alt="image" src="https://github.com/user-attachments/assets/206f2173-46a9-4b15-ad38-f54aa713e713" />
 
 Schematic:
+
 <img width="917" height="631" alt="image" src="https://github.com/user-attachments/assets/c1f1fc88-a78a-4e04-892a-7a89090506dc" />
 
 
