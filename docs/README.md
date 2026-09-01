@@ -33,10 +33,12 @@ Tail:
 This is the PCB for the Njord SAA! It is a standard 4 layer PCB featuring all elements needed for a flight computer like an IMU, barometer, an ESP32, and many pin headers for devices like servos, motors, and other sensors. It was designed originally in Eagle, but I switched to KiCad bacause there were a lot more sources for help, and it both looks and feels more modern.
 
 Render top:
-<img width="1588" height="832" alt="image" src="https://github.com/user-attachments/assets/209b0849-b538-439a-b2f3-88c1d9132299" />
+<img width="1080" height="573" alt="image" src="https://github.com/user-attachments/assets/6551b520-e1e2-42bf-8c92-33d5cd51548c" />
+
 
 Wiring diagram:
-<img width="1020" height="542" alt="image" src="https://github.com/user-attachments/assets/206f2173-46a9-4b15-ad38-f54aa713e713" />
+<img width="1092" height="570" alt="image" src="https://github.com/user-attachments/assets/05c93473-d113-4e4c-b8a8-d59644529e2e" />
+
 
 Schematic:
 
