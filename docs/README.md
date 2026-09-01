@@ -42,7 +42,8 @@ Wiring diagram:
 
 Schematic:
 
-<img width="917" height="631" alt="image" src="https://github.com/user-attachments/assets/c1f1fc88-a78a-4e04-892a-7a89090506dc" />
+<img width="1210" height="827" alt="image" src="https://github.com/user-attachments/assets/35f17490-67ac-4ac8-96df-1b71a3c4b44c" />
+
 
 
   # How to buld
